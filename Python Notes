@@ -1,0 +1,12 @@
+Welcome to my Notes!!
+
+PYTHON
+
+
+Choosing the right holder:
+
+Lists: For ordered collections of elements that need to be modified.
+Tuples: For immutable collections of related data.
+Dictionaries: For key-value pairs where efficient lookup is required.
+Sets: For unique elements and set operations.
+Custom classes: For complex data structures with specific behaviors.
