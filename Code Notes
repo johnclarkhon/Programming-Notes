@@ -1,0 +1,41 @@
+type(346) - int
+type(45.3) - float
+type('c') - str
+type(True) - bool
+int(34.5) - 34
+float(45) - 45
+78+85 - 163
+78-85 - -7
+78*85 - 6630
+8**2 - 64
+20/6 - 3.3333333333
+20//6 - 3
+10%6 - 2
+
+s = "Advanced Programming"
+s.swapcase() - 'aDVANCED pROGRAMMING'
+s.replace("m", "*") - 'Advanced Progra**ing'
+True if present, False if not
+string_name[index ng first element: number of characters: increment] - 'An gm'
+
+txt = "I love {}"
+txt.format(s) - 'I love Advanced Programming'
+
+m = ["apple", "banana", "cherry"]
+print(m[1]) - banana
+print(m[-1]) - cherry
+m.append("mango") - ['apple', 'banana', 'cherry', 'mango']
+m.insert(2,"orange") - ['apple', 'banana', 'orange', 'cherry', 'mango']
+m.remove("banana") - ['apple', 'orange', 'cherry', 'mango']
+m.sort() - ['apple', 'cherry', 'mango', 'orange']
+del m[1] - ['apple', 'mango', 'orange']
+
+d = {"brand":"Mitsubishi", "model":"Mirage", "year": 2018} 
+d.get("model") - 'Mirage'
+d["color"] = "pink"  - append
+d.keys() - dict_keys(['brand', 'model', 'year', 'color'])
+d.pop("model") - delete append
+
+
+
+
